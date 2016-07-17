@@ -1,0 +1,231 @@
+	publication	rating	reviewer	gender	probability
+0	SSG Syndicate	rotten	Susan Granger	female	1.0
+1	Scotsman	fresh	Alistair Harkness	male	1.0
+2	London Evening Standard	fresh	David Sexton	male	1.0
+3	Aisle Seat	fresh	Mike McGranaghan	male	1.0
+4	Daily Express (UK)	fresh	Henry Fitzherbert	male	1.0
+5	Daily Express (UK)	fresh	Allan Hunter	male	1.0
+6	Observer (UK)	fresh	Mark Kermode	male	1.0
+7	Kaplan vs. Kaplan	rotten	David Kaplan	male	1.0
+8	Matt's Movie Reviews	rotten	Matthew Pejkovic	male	1.0
+9	Ozus' World Movie Reviews	rotten	Dennis Schwartz	male	0.99
+10	The Mercury	fresh	Tim Martain	male	0.99
+11	Creative Loafing	fresh	Matt Brunson	male	1.0
+12	Killer Movie Reviews	fresh	Andrea Chase	female	0.79
+13	Otroscines.com	fresh	Diego Battle	male	1.0
+14	Houston Press	fresh	Pete Vonder Haar	male	1.0
+15	Leonard Maltin's Picks	fresh	Leonard Maltin	male	1.0
+16	Film International	fresh	Elias Savada	male	1.0
+17	ScreenRant	fresh	Ben Kendrick	male	0.99
+18	Movie Chambers	fresh	Paul Chambers	male	1.0
+19	Columbus Alive	fresh	Brad Keefe	male	0.99
+20	RTE Interactive (Ireland)	rotten	Harry Guerin	male	0.99
+21	BBC.com	fresh	Nicholas Barber	male	1.0
+22	The National (UAE)	fresh	James Mottram	male	0.99
+23	Independent (UK)	rotten	Geoffrey Macnab	male	1.0
+24	The Australian	fresh	Stephen Romei	male	1.0
+25	The Mary Sue	fresh	Marcy Cook	female	0.98
+26	NY1-TV	rotten	Neil Rosen	male	1.0
+27	Combustible Celluloid	fresh	Jeffrey M. Anderson	male	1.0
+28	Toledo Blade	rotten	Kirk Baird	male	1.0
+29	Tulsa World	fresh	Michael Smith	male	1.0
+30	Bangkok Post	fresh	Parisa Pichitmarn	female	1.0
+31	Baltimore Magazine	fresh	Max Weiss	male	0.98
+32	Deseret News, Salt Lake City	rotten	Josh Terry	male	1.0
+33	Cinemixtape	fresh	J. Olson		0.0
+34	Common Sense Media	fresh	S. Jhoanna Robledo	female	1.0
+35	Tri-City Herald	fresh	Gary Wolcott	male	1.0
+36	Boston Herald	rotten	James Verniere	male	0.99
+37	BET.com	rotten	Clay Cane	male	1.0
+38	HeraldNet (Everett, WA)	fresh	Robert Horton	male	1.0
+39	Flavorwire	fresh	Jason Bailey	male	1.0
+40	Capital Times (Madison, WI)	fresh	Rob Thomas	male	0.99
+41	Showbiz Junkies	fresh	Rebecca Murray	female	1.0
+42	Washington Free Beacon	rotten	Sonny Bunch	male	0.95
+43	HollywoodInToto.com	rotten	Christian Toto	male	0.99
+44	Brooklyn Magazine	fresh	Scout Tafoya	female	0.88
+45	Flixist.com	fresh	Matthew Razak	male	1.0
+46	ABC Tucson	rotten	Phil Villarreal	male	0.99
+47	WaffleMovies.com	rotten	Willie Waffle	male	0.95
+48	Reason Online	fresh	Kurt Loder	male	1.0
+49	Screen It!	rotten	Jim Judy	male	1.0
+50	Video-Reviewmaster.com	fresh	Steve Crum	male	1.0
+51	Washington City Paper	rotten	Noah Gittell	male	0.98
+52	The Newnan Times-Herald	rotten	Jonathan W. Hickman	male	1.0
+53	ReelViews	rotten	James Berardinelli	male	0.99
+54	Spliced Personality	fresh	Sean Burns	male	1.0
+55	Lyles' Movie Files	fresh	Jeffrey Lyles	male	1.0
+56	FILMINK (Australia)	fresh	Erin Free	female	0.99
+57	EricDSnider.com	fresh	Eric D. Snider	male	1.0
+58	Flicks.co.nz	fresh	Leonie Hayden	female	1.0
+59	Journal and Courier (Lafayette, IN)	fresh	Bob Bloom	male	0.98
+60	FilmsInReview.com	fresh	Victoria Alexander	female	1.0
+61	Beliefnet	fresh	Nell Minow	female	0.97
+62	Christian Science Monitor	rotten	Peter Rainer	male	1.0
+63	Sky Movies	fresh	Andy Psyllides	male	0.95
+64	The Sun (UK)	fresh	Jamie East	male	0.53
+65	L.A. Biz	fresh	Annlee Ellingson		0.0
+66	NPR	fresh	Andrew Lapin	male	1.0
+67	Mark Reviews Movies	rotten	Mark Dujsik	male	1.0
+68	Slate	fresh	Dana Stevens	female	0.92
+69	Film Comment Magazine	fresh	Michael Sragow	male	1.0
+70	Wall Street Journal	fresh	Joe Morgenstern	male	0.98
+71	Punch Drunk Critics	fresh	Travis Hopson	male	1.0
+72	The Movie Minute	rotten	Joanna Langfield	female	1.0
+73	Kansas City Star	fresh	Jon Niccum	male	1.0
+74	Minneapolis Star Tribune	fresh	Colin Covert	male	0.99
+75	TheFrightFile.com	fresh	Dustin Putman	male	1.0
+76	National Post	fresh	Chris Knight	male	0.93
+77	Las Vegas Review-Journal	fresh	Christopher Lawrence	male	1.0
+78	Financial Times	rotten	Nigel Andrews	male	1.0
+79	The Young Folks	fresh	Gabrielle Bondi	female	0.99
+80	RedEye	fresh	Lauren Chval	female	1.0
+81	New York Post	fresh	Sara Stewart	female	0.99
+82	Dallas Morning News	fresh	Britton Peele	male	0.63
+83	Chicago Reader	rotten	Leah Pickett	female	1.0
+84	Reeling Reviews	rotten	Laura Clifford	female	1.0
+85	Boston Globe	fresh	Ty Burr	male	0.9
+86	New Zealand Herald	fresh	Russell Baillie	male	1.0
+87	The Spectator	rotten	Deborah Ross	female	0.99
+88	St. Louis Post-Dispatch	fresh	Calvin Wilson	male	0.99
+89	New Statesman	fresh	Ryan Gilbey	male	0.99
+90	Parade Magazine	fresh	Neil Pond	male	1.0
+91	The Patriot Ledger	fresh	Dana Barbuto	female	0.92
+92	Film Journal International	rotten	Kevin Lally	male	1.0
+93	RogerEbert.com	rotten	Susan Wloszczyna	female	1.0
+94	One Guy's Opinion	rotten	Frank Swietek	male	1.0
+95	Bullz-Eye.com	rotten	Jason Zingale	male	1.0
+96	The Standard	fresh	Matt Neal	male	1.0
+97	Playback:stl	fresh	Sarah Boslaugh	female	1.0
+98	ComingSoon.net	fresh	Joshua Starnes	male	0.99
+99	Guardian	fresh	Peter Bradshaw	male	1.0
+100	Toronto Star	fresh	Peter Howell	male	1.0
+101	USA Today	fresh	Brian Truitt	male	1.0
+102	Baret News	fresh	Kam Williams	female	0.61
+103	New England Movies Weekly	rotten	Daniel M. Kimmel	male	1.0
+104	Las Vegas Weekly	fresh	Josh Bell	male	1.0
+105	Junkee	fresh	Glenn Dunks	male	0.99
+106	Blu-ray.com	fresh	Brian Orndorf	male	1.0
+107	Austin Chronicle	fresh	Kimberley Jones	female	1.0
+108	Fresno Bee	rotten	Rick Bentley	male	1.0
+109	Chicago Daily Herald	rotten	Dann Gire	male	0.77
+110	St. Paul Pioneer Press	fresh	Chris Hewitt (St. Paul)	male	0.93
+111	Christianity Today	fresh	Alissa Wilkinson	female	1.0
+112	Rolling Stone	fresh	Peter Travers	male	1.0
+113	Charlotte Observer	fresh	Lawrence Toppman	male	1.0
+114	Washington Post	fresh	Ann Hornaday	female	0.99
+115	NOW Toronto	fresh	Norman Wilner	male	1.0
+116	San Jose Mercury News	rotten	Tony Hicks	male	1.0
+117	NUVO Newsweekly	fresh	Edward Johnson-Ott	male	1.0
+118	ComingSoon.net	fresh	Alan Cerny	male	1.0
+119	CineXpress	fresh	Fico Cangiano	male	1.0
+120	Fort Worth Star-Telegram/DFW.com	rotten	Cary Darling	male	0.55
+121	Cleveland Plain Dealer	rotten	Michael Heaton	male	1.0
+122	The Verge	fresh	Tasha Robinson	female	1.0
+123	Philadelphia Inquirer	fresh	Steven Rea	male	1.0
+124	Consequence of Sound	fresh	Blake Goble	male	0.96
+125	Miami Herald	rotten	Rene Rodriguez	male	0.85
+126	MTV	fresh	Amy Nicholson	female	0.99
+127	Tampa Bay Times	fresh	Steve Persall	male	1.0
+128	Trespass	fresh	Alex Doenau	male	0.87
+129	Detroit News	rotten	Adam Graham	male	1.0
+130	Herald Sun (Australia)	rotten	Leigh Paatsch	female	0.71
+131	MovieCrypt.com	fresh	Kevin A. Ranson	male	1.0
+132	Arizona Republic	fresh	Bill Goodykoontz	male	1.0
+133	Hollywood & Fine	rotten	Marshall Fine	male	0.99
+134	Movie Nation	rotten	Roger Moore	male	1.0
+135	Graffiti With Punctuation	fresh	Blake Howard	male	0.96
+136	Playboy Online	rotten	Stephen Rebello	male	1.0
+137	Groucho Reviews	fresh	Peter Canavese	male	1.0
+138	Cinema em Cena	fresh	Pablo Villaça	male	1.0
+139	Student Edge	fresh	Simon Miraudo	male	0.99
+140	Crikey	fresh	Luke Buckmaster	male	1.0
+141	The Vine	fresh	Tara Watson	female	0.99
+142	Salon.com	fresh	Andrew O'Hehir	male	1.0
+143	Los Angeles Times	rotten	Justin Chang	male	1.0
+144	Tribune News Service	fresh	Katie Walsh	female	1.0
+145	Deadline Hollywood Daily	fresh	Pete Hammond	male	1.0
+146	Collider	fresh	Matt Goldberg	male	1.0
+147	CNN.com	rotten	Brian Lowry	male	1.0
+148	Flick Filosopher	fresh	MaryAnn Johanson	female	1.0
+149	Georgia Straight	fresh	Ron Yamauchi	male	0.98
+150	Salt Lake Tribune	fresh	Sean P. Means	male	1.0
+151	JoBlo's Movie Emporium	fresh	Chris Bumbray	male	0.93
+152	Slant Magazine	fresh	Jake Cole	male	0.99
+153	The Age (Australia)	fresh	Jake Wilson	male	0.99
+154	News.com.au	fresh	Wenlei Ma		0.0
+155	People Magazine	fresh	Michael Miller	male	1.0
+156	The Popcorn Junkie	fresh	Cameron Williams	male	0.94
+157	Times-Picayune	fresh	Mike Scott	male	1.0
+158	Urban Cinefile	rotten	Louise Keller	female	1.0
+159	Starburst	rotten	Jack Bottomley	male	0.99
+160	Screen-Space	fresh	Simon Foster	male	0.99
+161	Concrete Playground	fresh	Tom Glasson	male	1.0
+162	New York Magazine/Vulture	rotten	David Edelstein	male	1.0
+163	The Ooh Tray	rotten	Ed Whitfield	male	1.0
+164	Movie City News	fresh	David Poland	male	1.0
+165	Seattle Times	fresh	Moira MacDonald	female	1.0
+166	TheShiznit.co.uk	fresh	Becky Suter	female	1.0
+167	The Arts Desk	fresh	Saskia Baron	female	1.0
+168	Associated Press	fresh	Jake Coyle	male	0.99
+169	WOW247	fresh	Matthew Turner	male	1.0
+170	Chicago Sun-Times	rotten	Richard Roeper	male	1.0
+171	Us Weekly	rotten	Mara Reinstein	female	0.96
+172	Radio Times	rotten	Alan Jones	male	1.0
+173	AV Club	fresh	Jesse Hassenger	male	0.93
+174	GQ Magazine [UK]	fresh	Helen O'Hara	female	0.99
+175	SciFiNow	fresh	Poppy-Jay Palmer		0.0
+176	Independent (UK)	fresh	Clarisse Loughrey	female	1.0
+177	Times (UK)	fresh	Kate Muir	female	0.99
+178	Metro	fresh	Matt Prigge	male	1.0
+179	MovieWeb	fresh	Julian Roman	male	1.0
+180	Irish Times	fresh	Donald Clarke	male	1.0
+181	Total Film	fresh	Kate Stables	female	0.99
+182	The List	fresh	Katherine McLaughlin	female	1.0
+183	The Skinny	fresh	Patrick Gamble	male	1.0
+184	What Culture	fresh	Alex Leadbeater	male	0.87
+185	Little White Lies	fresh	David Jenkins	male	1.0
+186	CineVue	fresh	Joseph Walsh	male	0.99
+187	Projected Figures	fresh	Anton Bitel	male	1.0
+188	Legion of Leia	rotten	Witney Seibold		0.0
+189	Film School Rejects	fresh	Tomris Laffly	female	1.0
+190	Empire Magazine	fresh	Jonathan Pile	male	1.0
+191	We Live Entertainment	fresh	Fred Topel	male	0.98
+192	Daily Telegraph (UK)	fresh	Robbie Collin	male	0.94
+193	BuzzFeed News	fresh	Alison Willmore	female	0.99
+194	Digital Spy	fresh	Rosie Fletcher	female	1.0
+195	We Got This Covered	fresh	Matt Donato	male	1.0
+196	CinemaBlend.com	fresh	Eric Eisenberg	male	1.0
+197	HeyUGuys	fresh	Stefan Pape	male	1.0
+198	Toronto Sun	fresh	Liz Braun	female	1.0
+199	Vanity Fair	rotten	Richard Lawson	male	1.0
+200	HitFix	fresh	Drew McWeeny	male	0.95
+201	Daily Dead	fresh	Heather Wixson	female	1.0
+202	Screen International	fresh	Tim Grierson	male	0.99
+203	Birth.Movies.Death.	fresh	Devin Faraci	male	0.86
+204	The Daily Beast	fresh	Jen Yamato	female	0.99
+205	Globe and Mail	fresh	Barry Hertz	male	0.98
+206	Newark Star-Ledger	rotten	Stephen Whitty	male	1.0
+207	IGN Movies	fresh	Terri Schwartz	female	1.0
+208	Nerdist	fresh	Kyle Anderson	male	0.99
+209	ScreenCrush	fresh	Matt Singer	male	1.0
+210	New York Times	fresh	Manohla Dargis		0.0
+211	TheWrap	fresh	Robert Abele	male	1.0
+212	Entertainment Weekly	rotten	Chris Nashawaty	male	0.93
+213	Vox	fresh	Caroline Framke	female	1.0
+214	Den of Geek	rotten	Don Kaye	male	0.99
+215	Movies.com	fresh	Erik Davis	male	0.99
+216	indieWIRE	rotten	Eric Kohn	male	1.0
+217	The Playlist	rotten	Rodrigo Perez	male	1.0
+218	Comic Book Resources	fresh	Kristy Puchko	female	1.0
+219	Guardian	fresh	Nigel M. Smith	male	1.0
+220	Variety	rotten	Peter Debruge	male	1.0
+221	Uproxx	fresh	Mike Ryan	male	1.0
+222	TIME Magazine	fresh	Stephanie Zacharek	female	1.0
+223	Newsday	rotten	Rafer Guzman	male	1.0
+224	Hollywood Reporter	rotten	David Rooney	male	1.0
+225	Village Voice	rotten	Melissa Anderson	female	1.0
+226	Forbes	fresh	Scott Mendelson	male	1.0
+227	CraveOnline	fresh	William Bibbiani	male	1.0
+228	Time Out	fresh	Joshua Rothkopf	male	0.99
+229	The Film Stage	fresh	Jordan Raup	male	0.77
